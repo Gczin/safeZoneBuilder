@@ -1,6 +1,6 @@
 # nSafeZoneBuilder
 
-Preview : Preview : https://youtu.be/8buUuapziYk
+Preview : https://youtu.be/8buUuapziYk
 
 /safeZoneBuilder IG to open menu.
 
