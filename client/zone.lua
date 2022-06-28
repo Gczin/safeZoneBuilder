@@ -82,6 +82,7 @@ Citizen.CreateThread(function()
                         if v.restrictions["anti-coups"] then
                             NetworkSetFriendlyFireOption(true)
                         end
+                        SetEntityInvincible(GetPlayerPed(-1), false)
                         SafeZone.Functions.Notify("~r~Vous êtes sorti de la zone safe")
                     end
                     Notified = false
